@@ -1,0 +1,113 @@
+
+
+
+body{
+ 
+     background-color: cornflowerblue;
+     border: 5px solid black;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-left: 5px;
+     padding-right: 5px;
+
+}
+
+
+.header1{
+  
+    text-align: center;
+    text-decoration: underline;
+}
+
+.header {
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.container {
+    
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: calc();
+    text-align: center
+}
+
+.container1{
+
+    display: inline-flex;
+    padding: 100px;
+    text-align: center;
+   
+}
+
+
+.center{
+    text-align: left;
+}
+
+
+/* .container1{
+    display: inline-flex;
+    text-align: center;
+} */
+
+/* .float {
+
+display: inline-flex;
+border: 3px black;
+grid-template-columns: auto auto;
+grid-gap: 20px;
+padding: 20px;
+
+} */
+
+
+
+/* ol.myol {
+
+    display: inline-block;
+    text-align: left;
+    text-transform: uppercase;
+    margin: 20px;
+} */
+
+
+
+p {
+
+    text-align: left;
+}
+
+
+
+
+p > span{
+
+    font-style: oblique;
+    text-align: center;
+}
+
+ 
+
+.row {
+  
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  text-align: center;
+}
+
+
+
+ .column {
+   
+  
+  flex: 1px;
+  padding: 1px;
+ 
+ 
+} 
+
+
+  
